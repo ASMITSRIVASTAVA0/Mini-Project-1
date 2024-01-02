@@ -8,6 +8,7 @@
     height:100vh;
     background-image:url("camera.jpg");
     background-size:cover;
+    /* background-color: brown; */
 
 }
 .btn_one i{
